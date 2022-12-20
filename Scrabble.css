@@ -1,0 +1,37 @@
+.board{
+position: relative;
+width: 1706px;
+height: 1706px;
+background: #FFFFFF;
+
+position: absolute;
+left: 19.09%;
+right: 10%;
+top: 10%;
+bottom: 10.91%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #333232;
+
+}
+#tile{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+}
+.row1{
+width: 110px;
+height: 110px;
+left: 0px;
+top: 0px;
+    /* BBB */
+background: #E9E1CE;
+}
